@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 plotly
-sns
+seaborn
 scikit-learn
 xgboost
 altair
